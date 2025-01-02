@@ -1,3 +1,5 @@
+Lance le fichier ZombieMarket.exe
+
 Déplace le personnage sans jambes avec le caddie grâce aux touches ZQSD
 Ramasse des fraises avec la touche espace et lance les sur les zombies avec la souris avant qu'ils ne te dévorent.
 Normalement deux fraises par zombie suffisent, ce sont des fraises en acier qui pèsent chacune 2kg donc c'est logique.
@@ -27,4 +29,5 @@ Les retours et idées d'améliorations sont les bienvenues.
 
 Merci !
 
-Pierre-Antoine Locatelli
+Auteur : Pierre-Antoine Locatelli
+Plus d'info : https://palocatelli.com/index.php/2024/11/28/zombie-market/
