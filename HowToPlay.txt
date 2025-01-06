@@ -1,4 +1,4 @@
-Lance le fichier ZombieMarket.exe
+Lance le fichier ZombieMarket.exe situé dans le dossier Windows_Release
 
 Déplace le personnage sans jambes avec le caddie grâce aux touches ZQSD
 Ramasse des fraises avec la touche espace et lance les sur les zombies avec la souris avant qu'ils ne te dévorent.
